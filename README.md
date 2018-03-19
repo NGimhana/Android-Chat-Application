@@ -21,6 +21,11 @@ This is the Clicent Application. Every device wish to communicate with server sh
 
 Users are encouraged to use the predefined ports for error free communication and developers may use their own design decisions. 
 
+## Architecture
+
+![Architecture](https://github.com/NGimhana/Android-Chat-Application/blob/master/socket.jpg)
+
+
 ## Usage
 
     1.Install and run IP-Connection on one device and make sure not to connect the internet prior the execution of the application.
